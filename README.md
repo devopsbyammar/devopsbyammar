@@ -32,12 +32,6 @@ Projects
 DevOps CI/CD Kubernetes Pipeline  
 Automated deployment pipeline using Git, Docker, Jenkins, and Kubernetes.
 
-Currently Learning
-
-Kubernetes production architecture  
-Monitoring and observability with Prometheus and Grafana  
-Advanced CI/CD automation
-
 Contact
 
 Email: saimrazzaq5638@gmail.com
