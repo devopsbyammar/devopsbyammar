@@ -40,7 +40,7 @@ Advanced CI/CD automation
 
 Contact
 
-Email: saimrazzaq5638@gmail.com## Hi there 👋
+Email: saimrazzaq5638@gmail.com
 
 <!--
 **ammarsysadmin/ammarsysadmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
