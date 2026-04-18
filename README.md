@@ -1,52 +1,83 @@
-# Muhammad Ammar
+# 👋 Muhammad Ammar
 
-DevOps Engineer | Linux | Docker | Kubernetes | CI/CD
+🚀 Junior DevOps Engineer | Linux | Docker | Kubernetes | CI/CD | Cloud-Ready
 
-Welcome to my GitHub profile.
+---
 
-I am building DevOps projects focused on containerization, automation, and Kubernetes-based deployments.
+## 📌 About Me
 
-Technical Skills
+I am a DevOps-focused engineer with hands-on experience in building and automating containerized applications using modern DevOps tools.
 
-Linux System Administration  
-Git and GitHub  
-Docker Containerization  
-Kubernetes Orchestration  
-CI/CD Pipelines using Jenkins  
+I specialize in **CI/CD pipelines, Kubernetes deployments, and infrastructure automation**, with a strong focus on real-world problem solving and production-style setups.
 
-DevOps Tools
+I have built end-to-end DevOps projects integrating Docker, Jenkins, Kubernetes, and monitoring tools, following **cloud-ready architecture principles**.
 
-Git  
-Docker  
-Kubernetes  
-Minikube  
-Jenkins  
+---
 
-Monitoring & Observability
+## 🛠️ Technical Skills
 
-Prometheus  
-Grafana  
+**Operating Systems**
+- Linux System Administration (Ubuntu)
 
-Projects
+**Version Control**
+- Git & GitHub
 
-DevOps CI/CD Kubernetes Pipeline  
-Automated deployment pipeline using Git, Docker, Jenkins, and Kubernetes.
+**Containerization & Orchestration**
+- Docker  
+- Kubernetes (Minikube)
 
-Contact
+**CI/CD**
+- Jenkins (Pipeline Automation)
 
-Email: saimrazzaq5638@gmail.com
+**Infrastructure as Code (IaC)**
+- Terraform  
 
-<!--
-**ammarsysadmin/ammarsysadmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Configuration Management**
+- Ansible  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ DevOps Tools
+
+- Docker  
+- Kubernetes  
+- Jenkins  
+- Git  
+- Minikube  
+- Helm  
+
+---
+
+## 📊 Monitoring & Observability
+
+- Prometheus  
+- Grafana  
+
+---
+
+## 🚀 Featured Project
+
+### 🔹 DevOps CI/CD Kubernetes Pipeline
+
+- Built a complete CI/CD pipeline using **GitHub → Jenkins → Docker → Kubernetes**  
+- Automated build, security scanning, and deployment process  
+- Deployed containerized frontend & backend using Kubernetes  
+- Implemented Ingress, ConfigMaps, and Secrets  
+- Packaged application using Helm for reusable deployments  
+- Integrated monitoring readiness using Prometheus & Grafana  
+
+📌 **Cloud Note:**  
+This project follows a **cloud-ready architecture** and can be deployed on AWS (EKS/EC2) or Azure (AKS).  
+Due to hardware limitations, it is currently tested on a local Kubernetes environment (Minikube).
+
+---
+
+## 📫 Contact
+
+📧 Email: saimrazzaq5638@gmail.com  
+
+---
+
+## ⚡ Goal
+
+To build scalable, automated, and cloud-ready systems aligned with industry best practices.
