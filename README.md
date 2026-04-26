@@ -74,7 +74,7 @@ Due to hardware limitations, it is currently tested on a local Kubernetes enviro
 
 ## 📫 Contact
 
-📧 Email: saimrazzaq5638@gmail.com  
+📧 Email: ammarm1506@gmail.co  
 
 ---
 
